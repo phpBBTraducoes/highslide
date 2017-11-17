@@ -34,6 +34,6 @@ $lang = array_merge($lang, array(
 	'PAUSETITLE'		=> 'Pausar apresentação (barra de espaço)',
 	'PREVIOUSTITLE'		=> 'Anterior (seta direcional para esquerda)',
 	'NEXTTITLE'			=> 'Próxima (seta direcional para direita)',
-	'NUMBER'			=> 'Imagem %1 of %2',
+	'NUMBER'			=> 'Imagem %1 de %2',
 	'RESTORETITLE' 		=> 'Clique para fechar. Clique e arraste para mover. Use as setas direcionais para ir à anterior ou próxima.'
 ));
