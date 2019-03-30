@@ -3,7 +3,7 @@
 *
 * @package phpBB Extension - Highslide
 * @license GNU General Public License, version 2 (GPL-2.0)
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 0.0.2] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid [2017][ver 0.0.2] (https://github.com/phpBBTraducoes)
 */
 
 /**
